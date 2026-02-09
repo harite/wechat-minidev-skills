@@ -10,8 +10,8 @@
 致谢与引用：
 - 原始项目：`nofree5th/no.js`
 - 本仓库中的 `nojs-wechat-minigame` skill 基于其文档、示例与模板进行适配整理。
-- 相关三方来源见 `/Users/harite/Desktop/project/codex/minigame_skills/wechat-minidev-skills/THIRD_PARTY_NOTICES.md`
-- 本仓库许可证见 `/Users/harite/Desktop/project/codex/minigame_skills/wechat-minidev-skills/LICENSE`
+- 相关三方来源见 `THIRD_PARTY_NOTICES.md`
+- 本仓库许可证见 `LICENSE`
 
 ## 2. Codex 用户安装方式（Codex 命令行 + Codex App）
 
