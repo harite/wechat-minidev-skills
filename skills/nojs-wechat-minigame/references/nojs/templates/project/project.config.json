@@ -1,0 +1,10 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "appid": "{{APP_ID}}",
+  "projectname": "{{PROJECT_NAME}}",
+  "setting": {
+    "es6": false,
+    "enhance": false,
+    "minified": false
+  }
+}

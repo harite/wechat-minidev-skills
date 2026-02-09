@@ -1,0 +1,13 @@
+{
+    "deviceOrientation": "portrait",
+    "iOSHighPerformance": true,
+    "openDataContext": "openDataContext",
+    "modifyFriendInteractiveStorageTemplates": [
+      {
+        "key": "1", 
+        "action": "赠送",
+        "object": "金币",
+        "ratio": 10 
+      }
+    ]
+}

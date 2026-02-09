@@ -1,0 +1,25 @@
+{
+  "name": "triangle",
+  "version": "1.0.0",
+  "description": "微信小游戏项目 (2D)",
+  "scripts": {
+    "clean": "rm -rf dist/*",
+    "build": "npm run clean && webpack && cp -r assets dist/miniprogram/ && cp game.json dist/miniprogram/ && cp project.config.json dist/",
+    "dev": "webpack --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/generator": "^7.28.5",
+    "@babel/parser": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/traverse": "^7.28.5",
+    "@babel/types": "^7.28.5",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "@pixi/unsafe-eval": "^7.4.3",
+    "pixi.js": "^7.3.2"
+  }
+}

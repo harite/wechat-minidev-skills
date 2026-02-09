@@ -1,0 +1,4 @@
+interface:
+  display_name: "No.js WeChat Minigame Guide"
+  short_description: "Apply no.js rules to WeChat minigames"
+  default_prompt: "Use $nojs-wechat-minigame to apply no.js guidelines when building a WeChat minigame."

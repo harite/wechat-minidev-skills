@@ -1,0 +1,10 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "appid": "touristappid",
+  "projectname": "cube",
+  "setting": {
+    "es6": false,
+    "enhance": false,
+    "minified": false
+  }
+}
