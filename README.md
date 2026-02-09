@@ -46,6 +46,24 @@ cd wechat-minidev-skills
 
 ## 3. Claude Code 用户安装方式
 
+方式 A：使用 `plugin` 命令（推荐）
+
+在 Claude Code 会话中执行：
+
+```bash
+/plugin marketplace add harite/wechat-minidev-skills
+/plugin install wechat-minidev-skills@wechat-minidev-skills
+```
+
+或在终端执行：
+
+```bash
+claude plugin marketplace add harite/wechat-minidev-skills
+claude plugin install wechat-minidev-skills@wechat-minidev-skills
+```
+
+方式 B：脚本安装（备用）
+
 ```bash
 git clone https://github.com/harite/wechat-minidev-skills.git
 cd wechat-minidev-skills

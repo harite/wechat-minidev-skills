@@ -1,0 +1,20 @@
+{
+  "name": "wechat-minidev-skills",
+  "version": "1.0.0",
+  "description": "WeChat minigame development skills migrated from no.js for Claude Code and Codex",
+  "author": {
+    "name": "harite",
+    "email": "support@github.com"
+  },
+  "homepage": "https://github.com/harite/wechat-minidev-skills",
+  "repository": "https://github.com/harite/wechat-minidev-skills",
+  "license": "MIT",
+  "keywords": [
+    "wechat",
+    "minigame",
+    "skills",
+    "nojs",
+    "claude-code",
+    "codex"
+  ]
+}

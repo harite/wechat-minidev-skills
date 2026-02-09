@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wechat-minidev-skills",
+  "metadata": {
+    "description": "Marketplace for WeChat minigame development skills based on no.js",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "harite",
+    "email": "support@github.com"
+  },
+  "plugins": [
+    {
+      "name": "wechat-minidev-skills",
+      "description": "WeChat minigame development skill pack migrated from no.js",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "harite",
+        "email": "support@github.com"
+      },
+      "category": "development",
+      "strict": true
+    }
+  ]
+}
