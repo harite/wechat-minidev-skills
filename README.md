@@ -15,6 +15,12 @@
 
 ## 2. Codex 用户安装方式（Codex 命令行 + Codex App）
 
+一键自动安装（推荐）：
+
+```text
+Fetch and follow instructions from https://raw.githubusercontent.com/harite/wechat-minidev-skills/refs/heads/main/INSTALL.codex.md
+```
+
 Codex 命令行（CLI）安装：
 
 ```bash
